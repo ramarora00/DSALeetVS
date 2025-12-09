@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ramar/OneDrive/Desktop/Documents/c language",
-      "program": "c:/Users/ramar/OneDrive/Desktop/Documents/c language/build/Debug/outDebug",
+      "cwd": "c:/Users/ramar/OneDrive/Desktop/DSA3Sem+now onwardsleetcode/leetcode/intersection_of_two_arrays/using hashmap",
+      "program": "c:/Users/ramar/OneDrive/Desktop/DSA3Sem+now onwardsleetcode/leetcode/intersection_of_two_arrays/using hashmap/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
