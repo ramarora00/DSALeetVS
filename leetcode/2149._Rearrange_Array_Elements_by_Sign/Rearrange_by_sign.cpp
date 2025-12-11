@@ -17,7 +17,7 @@ public:
             } else {
                 ans[neg] = nums[i];
                 neg += 2;  
-            // }
+            }    
         }
 
         return ans; 
