@@ -21,7 +21,7 @@
 
 // Input: target = 11, nums = [1,1,1,1,1,1,1,1]
 // Output: 0
- 
+//explaination : we will use sliding window approach
 #include<iostream>
 #include<vector>
 #include<climits>
